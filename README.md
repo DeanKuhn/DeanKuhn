@@ -8,7 +8,7 @@
 
 ## What I'm Building
 
-**[PharmaWatch](https://deanslist.dev)** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt + SCD Type 2 snapshots, FastAPI backend, pgvector for semantic search, and an ML/RAG layer in progress. Real-world messy data, real engineering decisions.
+**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt + SCD Type 2 snapshots, FastAPI backend, pgvector for semantic search, and an ML/RAG layer in progress. Real-world messy data, real engineering decisions.
 
 Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pipeline (Last.fm DE project), Market Cynic (Reddit sentiment vs. stock price, medallion architecture), WGUPS routing system (custom hash table + nearest-neighbor algorithm).
 
@@ -24,7 +24,6 @@ Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
