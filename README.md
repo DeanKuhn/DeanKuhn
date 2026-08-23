@@ -8,9 +8,9 @@
 
 ## What I'm Building
 
-**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt + SCD Type 2 snapshots, FastAPI backend, pgvector for semantic search, and an ML/RAG layer in progress. Real-world messy data, real engineering decisions.
+**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt + SCD Type 2 snapshots, FastAPI backend, pgvector for semantic search, and an ML/RAG layer in progress.
 
-Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pipeline (Last.fm → Neon (Postgres) → Next.js, live on [music.deanslist.dev](https://music.deanslist.dev)), Market Cynic (Reddit sentiment vs. stock price, medallion architecture), WGUPS routing system (custom genetic algorithm + premature convergence).
+Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pipeline (Last.fm → Neon (Postgres) → Next.js, live on [music.deanslist.dev](https://music.deanslist.dev)), Market Cynic (Reddit sentiment vs. stock price, medallion architecture, Reddit shut down public .json endpoints so the pipeline is now retired), WGUPS routing system (custom genetic algorithm + premature convergence).
 
 ---
 
