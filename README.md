@@ -32,4 +32,4 @@ Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pi
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deanslist.dev-111111?style=for-the-badge&logo=astro&logoColor=white)](https://deanslist.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dean-kuhn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deankuhn)
