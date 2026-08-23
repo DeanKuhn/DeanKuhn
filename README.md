@@ -2,7 +2,7 @@
 
 **Data Engineer / Analytics Engineer** — building pipelines, platforms, and the occasional ML layer on top of them.
 
-📍 Milwaukee, WI &nbsp;|&nbsp; 🎓 B.S. Computer Science, WGU &nbsp;|&nbsp; 🌐 [deanslist.dev](https://deanslist.dev)
+📍 Milwaukee, WI &nbsp;|&nbsp; 🎓 B.S. Computer Science @WGU, pursuing M.S in Computer Systems &nbsp;|&nbsp; 🌐 [deanslist.dev](https://deanslist.dev)
 
 ---
 
