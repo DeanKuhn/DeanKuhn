@@ -16,7 +16,7 @@
 
 **KitchenSync** — Event-driven kitchen data pipeline, ML model learns from weather patterns the historical baseline can't predict
 
-**Music Growth** — Tracks cumulative stats from Last.fm over time, live on a Hetzner instance (Last.fm → local Postgres → Next.js frontend w/ Caddy): [music.deanslist.dev](https://music.deanslist.dev
+**Music Growth** — Tracks cumulative stats from Last.fm over time, live on a Hetzner instance (Last.fm → local Postgres → Next.js frontend w/ Caddy): [music.deanslist.dev](https://music.deanslist.dev)
 
 **Package Router** — Uses a custom genetic algorithm to tackle the classic VRP-TW. Genetic algorithm handles package loading and routing in one fitness model.
 
