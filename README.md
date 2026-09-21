@@ -6,11 +6,19 @@
 
 ---
 
-## What I'm Building
+## What I'm building
 
-**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt + SCD Type 2 snapshots, FastAPI backend, pgvector for semantic search, and an ML/RAG layer in progress.
+**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt, row name normalization using NLP (Jev, RxNorm).
 
-Previous work: KitchenSync (event-driven kitchen data pipeline), Music Growth Pipeline (Last.fm → Neon (Postgres) → Next.js, live on [music.deanslist.dev](https://music.deanslist.dev)), Market Cynic (Reddit sentiment vs. stock price, medallion architecture, Reddit shut down public .json endpoints so the pipeline is now retired), WGUPS routing system (custom genetic algorithm + premature convergence).
+---
+
+## What I've built
+
+**KitchenSync** — Event-driven kitchen data pipeline, ML model learns from weather patterns the historical baseline can't predict
+
+**Music Growth** — Tracks cumulative stats from Last.fm over time, live on a Hetzner instance (Last.fm → local Postgres → Next.js frontend w/ Caddy): [music.deanslist.dev](https://music.deanslist.dev
+
+**Package Router** — Uses a custom genetic algorithm to tackle the classic VRP-TW. Genetic algorithm handles package loading and routing in one fitness model.
 
 ---
 
