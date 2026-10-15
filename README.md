@@ -1,24 +1,24 @@
 # Dean Kuhn
 
-**Data Engineer / Analytics Engineer** — building pipelines, platforms, and the occasional ML layer on top of them.
+**Data Engineer / Analytics Engineer.** Building live, interactive systems on messy public data.
 
-📍 Milwaukee, WI &nbsp;|&nbsp; 🎓 B.S. Computer Science &nbsp;|&nbsp; 🌐 [deanslist.dev](https://deanslist.dev)
+📍 Milwaukee, WI | 🎓 B.S. Computer Science | 🌐 [deanslist.dev](https://deanslist.dev)
 
 ---
 
 ## What I'm building
 
-**PharmaWatch** — An end-to-end FDA adverse event data platform built on FAERS/openFDA data. Star schema modeling with dbt, row name normalization using NLP (Jev, RxNorm).
+Currently normalizing reaction terms in **[PharmaWatch](https://pharma.deanslist.dev)**.
+
+I'm always open to collaboration and learning new things. Message me at [deankuhn@proton.me](mailto:deankuhn@proton.me).
 
 ---
 
 ## What I've built
 
-**KitchenSync** — Event-driven kitchen data pipeline, ML model learns from weather patterns the historical baseline can't predict
+**[PharmaWatch](https://pharma.deanslist.dev)**, a drug safety signal platform built on 20 years of FDA adverse event reports.
 
-**Music Growth** — Tracks cumulative stats from Last.fm over time, live on a Hetzner instance (Last.fm → local Postgres → Next.js frontend w/ Caddy): [music.deanslist.dev](https://music.deanslist.dev)
-
-**Package Router** — Uses a custom genetic algorithm to tackle the classic VRP-TW. Genetic algorithm handles package loading and routing in one fitness model.
+**[Music Growth](https://music.deanslist.dev)**, a weekly pipeline that tracks listener growth for 37,000+ artists.
 
 ---
 
@@ -32,7 +32,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
