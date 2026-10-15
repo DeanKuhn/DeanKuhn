@@ -43,5 +43,5 @@ I'm always open to collaboration and learning new things. Message me at [deankuh
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deanslist.dev-111111?style=for-the-badge&logo=astro&logoColor=white)](https://deanslist.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deankuhn)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:deankuhn@proton.me)
