@@ -2,7 +2,7 @@
 
 **Data Engineer / Analytics Engineer.** Building live, interactive systems on messy public data.
 
-📍 Milwaukee, WI | 🎓 B.S. Computer Science | 🌐 [deanslist.dev](https://deanslist.dev)
+📍 Milwaukee, WI 🎓 B.S. Computer Science 🌐 [deanslist.dev](https://deanslist.dev)
 
 ---
 
